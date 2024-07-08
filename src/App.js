@@ -9,7 +9,7 @@ function App() {
         <p>
           This is Theebaseharan M S
         </p>
-        <p>Area of Interest : Networks , Cloud , DevOps</p>
+        <p>Area of Interest : Networks , Cloud , DevOps ,UI/UX Designing</p>
       </header>
     </div>
   );

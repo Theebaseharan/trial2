@@ -9,14 +9,7 @@ function App() {
         <p>
           This is Theebaseharan M S
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React .
-        </a>
+        <p>Area of Interest : Networks , Cloud , DevOps</p>
       </header>
     </div>
   );
